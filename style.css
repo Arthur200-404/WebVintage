@@ -1,5 +1,12 @@
 body {
-  background-color: #111;
-  color: #0f0;
-  font-family: monospace;
+  background:black;
+  color: white;
+  margin: 0px;
 }
+header{
+  border-bottom: solid 2px rgb(0, 128, 255);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(0, 128, 255);
+}
+section
