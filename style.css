@@ -4,15 +4,18 @@ body {
   margin: 0px;
 }
 header{
-  border-bottom: solid 2px rgb(0, 128, 255);
+  border-bottom: solid 2px rgb(127,255,0);
   padding: 20px;
   font-size: 32px;
-  color: rgb(0, 128, 255);
+  color: rgb(127,255,0);
 }
 section{
-  background: rgb(184,132,203) ;
+  background: rgb(20,147,255) ;
   padding-bottom: 80px;
   padding-top: 80px;
   display: flex;
   justify-content: center;
+}
+.chamada-texto{
+  margin-right: 5%;
 }
