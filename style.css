@@ -20,6 +20,11 @@ header {
   justify-content: center;
 }
 
+.chamada > div {
+  max-width: 560px;
+  width: 100%;
+}
+
 .chamada-texto {
   text-align: center;
   margin-right: 5%;
