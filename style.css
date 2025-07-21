@@ -15,16 +15,14 @@ header {
 
 .chamada {
   background: rgb(20, 147, 255);
-  padding-top: 80px;
-  padding-bottom: 80px;
-  margin-right: 5%;
-  margin-left: 5%;
+  padding: 80px 20px;
   display: flex;
   justify-content: center;
 }
 
 .chamada-texto {
   text-align: center;
+  margin-right: 5%;
 }
 
 h1 {
